@@ -1,2 +1,3 @@
 Git - software that helps us to control version of the software and source management.
 one line missing
+this is new line of text
